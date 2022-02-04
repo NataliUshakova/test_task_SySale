@@ -1,0 +1,28 @@
+{
+    "cards":[
+        {
+            "image":["../src/assets/shampoo_1.1.png", "../src/assets/shampoo_1.2.png"],
+            "name": "Шампунь",
+            "descriprion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+            "color":["Желтый", "Красный", "Зеленый"],
+            "price": 200,
+            "size":["100мл", "200мл", "300мл"]
+        },
+        {
+            "image":["./src/assets/shampoo_2.1.png", "./src/assets/shampoo_2.2.png"],
+            "name": "Шампунь",
+            "descriprion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+            "color":["Желтый", "Красный", "Зеленый"],
+            "price": 200,
+            "size":["100мл", "200мл", "300мл"]
+        },
+        {
+            "image":["./src/assets/shampoo_3.1.png", "./src/assets/shampoo_3.2.png"],
+            "name": "Шампунь",
+            "descriprion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
+            "color":["Желтый", "Красный", "Зеленый"],
+            "price": 200,
+            "size":["100мл", "200мл", "300мл"]
+        }
+    ]
+}
